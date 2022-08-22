@@ -65,7 +65,7 @@ Teleop |  Mapping | Navigation
 
 # The TortoiseBot 🐢🤖
 
-The ReadMe is divided into several sections as per different topics and is constantly been updated and maintained with new updates by our talented and dedicated 👥 Team at RigBetel Labs LLP. So don't forget to often come here and check on it for the latest and greatest software updates, projects & skills for your TortoiseBot. Also don't forget to 🌟 Star this repository on top-right corner of the screen to show your 💖 Love and Support 🤗 for our Team. 🤩 It will make us happy and encourage us to make and bring more such projects for you. 😍 Click [here](https://github.com/rigbetellabs/tortoisebot/wiki/1.-Getting-Started) to get started.
+The ReadMe is structured into multiple sections as per various applications, covering a variety of topics which are being periodically being updated and maintained with latest updates and releases by our talented and devoted 👥 Team at RigBetel Labs LLP. Well, don't forget to check back frequently for our most recent software upgrades, projects, and talents for your TortoiseBot. And adding a 🌟 Star for this repository which is on top-right corner of the screen to show your 💖 Love and Support 🤗 for our Team. 🤩 It will surely motivate and encourage us to bring more such projects and solutions for you and the community.😍 Click [here](https://github.com/rigbetellabs/tortoisebot/wiki/1.-Getting-Started) to get started.
 
 1. [Getting Started](https://github.com/rigbetellabs/tortoisebot/wiki/1.-Getting-Started)
 2. [Hardware Assembly](https://github.com/rigbetellabs/tortoisebot/wiki/2.-Hardware-Assembly)
